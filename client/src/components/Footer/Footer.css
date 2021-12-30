@@ -1,0 +1,22 @@
+.footer-container{
+    background-color: #193498;
+    color: white;
+}
+.footer-link-container{
+    padding: 20px 0;
+}
+.footer-link{
+    color: white;
+    text-decoration: none;
+    padding: 0.3rem;
+}
+.footer-link:hover{
+    color: #1597E5;
+}
+.bottom-logo{
+    width: 90%;
+    margin:auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

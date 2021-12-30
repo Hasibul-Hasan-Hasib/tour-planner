@@ -1,0 +1,26 @@
+.banner-container{
+    width: 90%;
+    display: flex;
+    margin: 5rem auto;
+    justify-content: center;
+}
+.img-side{
+    width: 50%;
+    text-align: right;
+}
+.banner-img{
+    width: 80%;
+}
+.heading-side{
+    width: 50%;
+    text-align: left;
+    margin: auto 0;
+}
+.banner-heading{
+    font-size: 3rem;
+}
+.banner-para{
+    font-size: 1rem;
+    color: gray;
+    margin: 2rem 0 3rem;
+}
